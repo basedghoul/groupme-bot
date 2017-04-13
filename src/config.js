@@ -13,7 +13,6 @@ config.bots = [
 config.yahooWeatherAppId = '';
 
 // Alex CI user token
-config.alexUserToken = 'Azv38MEp1LwnCB1NVnlXyyCoYDecBh0i1jR70TYp
-';
+config.alexUserToken = 'Azv38MEp1LwnCB1NVnlXyyCoYDecBh0i1jR70TYp';
 
 module.exports = config;
